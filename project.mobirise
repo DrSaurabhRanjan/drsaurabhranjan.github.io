@@ -197,13 +197,18 @@
             }
           },
           "title": "Dr. Saurabh Ranjan",
-          "text": "MBBS Doctor, Meditation Teacher, Award winning EOV Acupuncturist, IBL In-Between-Life Regression Therapist",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a> ",
+          "text": "MBBS Doctor, Meditation Teacher, <br>Award winning EOV Acupuncturist, <br>IBL In-Between-Life Regression Therapist",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"assets/files/Dr%20Saurabh%20Ranjan_in_Spiritual%20Science%20Magazine%202013-07-08%20pg%2025-27.pdf\" data-toolbar=\"-mbrBtnMove\">MORE</a> ",
           "_tags": [
             "Theme"
           ],
           "_name": "header2",
-          "_anchor": "header2-2"
+          "_anchor": "header2-2",
+          "_styles": {
+            ".mbr-section-text": {
+              "font-size": "24px"
+            }
+          }
         },
         {
           "_styles": {
