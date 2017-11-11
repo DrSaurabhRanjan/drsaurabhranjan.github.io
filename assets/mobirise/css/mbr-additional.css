@@ -485,6 +485,10 @@ h6,
   font-size: 24px;
   font-family: 'Oswald', sans-serif;
 }
+#social-buttons2-8 .mbr-section-title,
+#social-buttons2-8 .btn-social {
+  color: #232323;
+}
 #form1-6 .form-control-label {
   color: #232323;
 }
