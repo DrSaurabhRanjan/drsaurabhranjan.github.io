@@ -105,10 +105,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/laws-of-life-logo-green-159x128.png",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "alt": "#LifeisBLISS",
+              "link": "index.html#header2-2",
+              "title": "Life is Bliss, if we knows Laws of Life"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -116,7 +117,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DrSaurabhRanjan.in</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DrSaurabhRanjan.gq&nbsp;</a>",
           "_tags": [
             "Theme"
           ],
