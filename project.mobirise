@@ -15,7 +15,7 @@
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
-        "isRoundedButtons": false,
+        "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
         "isRtl": false
@@ -101,7 +101,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Explore</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Register for FREE Introductory Class</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Register for online course</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Free Knowledge</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Infographics</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">New Item</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">New Item</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">New Item</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">New Item</a></div></div></div></div></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Text</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Audio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">ebooks</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Book Appointment</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Call</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">WhatsApp 9654791946</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tel:+91-8076711457\">Call 8076711457</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form1-6\">Send a Message online</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\">Book Appointment</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"tel:+91-9654791946\">Contact for Personal Coaching</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"mailto:guide@drsaurabhranjan.gq\">Contact for Help</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Explore</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Register for FREE Introductory Class</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-4\">Register for online course</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Free Knowledge</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Infographics</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Health</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">New Item</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">New Item</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">New Item</a></div></div></div></div></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Text</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Audio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">ebooks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Laws of Health.docx\">Health</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Wealth</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/50_Psychology_Classics__Who_We_Are__How_We_Think__What_We_Do__Insight_and_Inspiration_from_50_Key_Books.pdf\">Relationship</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/The-Etheric-Astral-Mental-Causal-bodies-Arthur-E-Powell.pdf\">Spirituality</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Book Appointment</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Call</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">WhatsApp 9654791946</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tel:+91-8076711457\">Call 8076711457</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form1-6\">Send a Message online</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#map1-7\">Book Appointment</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"tel:+91-9654791946\">Contact for Personal Coaching</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-6\">Contact for Help</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -219,6 +219,13 @@
               "font-size": "24px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-section-title": {
+              "color": "#f3c649"
             }
           },
           "_params": {
@@ -240,9 +247,9 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "ARTICLE",
+          "title": "ARTICLES",
           "text": "We seek one of the four things....",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"assets/files/Laws%20of%20Health.docx\" data-toolbar=\"-mbrBtnMove\">Health</a>  <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://www.youtube.com/watch?v=lzFMmeE8USg&amp;t=7s\" data-toolbar=\"-mbrBtnMove\">Wealth</a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://www.youtube.com/watch?v=lzFMmeE8USg&amp;t=7s\" data-toolbar=\"-mbrBtnMove\">Relationship</a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://www.youtube.com/watch?v=lzFMmeE8USg&amp;t=7s\" data-toolbar=\"-mbrBtnMove\">Spiritual Evolution</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"assets/files/Laws%20of%20Health.docx\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-smile-face mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 24px;\"></span>Health</a>  <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://www.youtube.com/watch?v=lzFMmeE8USg&amp;t=7s\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-magic-stick mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 24px;\"></span>Wealth</a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://www.youtube.com/watch?v=lzFMmeE8USg&amp;t=7s\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 24px;\"></span>Relationship</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.youtube.com/watch?v=lzFMmeE8USg&amp;t=7s\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>Career Guidance</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.youtube.com/watch?v=lzFMmeE8USg&amp;t=7s\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-up mbr-iconfont mbr-iconfont-btn\"></span>Spiritual Evolution</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"assets/files/The Science of Getting Rich- Wallace Wattle.pdf\" data-toolbar=\"-mbrBtnMove\">Free eBooks</a> ",
           "_tags": [
             "Theme"
           ],
@@ -293,7 +300,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "SHARE THIS PAGE!",
+          "text": "Share This Wisdom",
           "_tags": [
             "Theme"
           ],
@@ -317,7 +324,7 @@
             "overlayOpacity": 0.5
           },
           "title": "CONTACT FORM",
-          "subtitle": "Share your question/doubt, Shape your future.",
+          "subtitle": "Share your question/doubt, Let us Help you to Shape your future.",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send Message</a>",
           "form": {
             "action": "dr.ranjan.pyramid@gmail.com",

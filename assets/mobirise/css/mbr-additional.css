@@ -6,6 +6,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -53,6 +54,12 @@ h6,
 .mbr-footer-content strong,
 .mbr-footer .mbr-contacts strong {
   font-family: 'Montserrat', sans-serif;
+}
+.btn {
+  border-radius: 1.6em;
+}
+.mbr-subscribe .btn {
+  border-radius: 1.6em !important;
 }
 .btn-sm,
 .lead a,
@@ -484,6 +491,12 @@ h6,
 #msg-box8-4 .lead {
   font-size: 24px;
   font-family: 'Oswald', sans-serif;
+}
+#msg-box8-4 .btn {
+  font-family: 'Oswald', sans-serif;
+}
+#msg-box8-4 .mbr-section-title {
+  color: #f3c649;
 }
 #social-buttons2-8 .mbr-section-title,
 #social-buttons2-8 .btn-social {
