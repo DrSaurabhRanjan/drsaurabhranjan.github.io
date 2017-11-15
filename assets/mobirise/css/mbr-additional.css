@@ -502,3 +502,10 @@ h6,
 #form1-6 .form-control-label {
   color: #232323;
 }
+#msg-box8-9 .mbr-section-title,
+#msg-box8-9 p {
+  color: #fff;
+}
+#msg-box8-9 .lead {
+  color: #ffffff;
+}
