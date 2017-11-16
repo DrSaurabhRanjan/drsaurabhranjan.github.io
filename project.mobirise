@@ -25,7 +25,7 @@
       ]
     },
     "versionFirst": "4.4.0",
-    "uniqCompNum": 10,
+    "uniqCompNum": 11,
     "versionPublish": "4.4.0"
   },
   "pages": {
@@ -101,7 +101,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Register for FREE Meditation Class</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">19 Nov.</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.facebook.com/pg/drsaurabhranjan.in/photos/?tab=album&amp;album_id=1746719552013444\" target=\"_blank\">Register for FREE Acupressure Camp</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Free Knowledge</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Infographics</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Health</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">New Item</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">New Item</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">New Item</a></div></div></div></div></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Text</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Audio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ebooks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Laws of Health.docx\">Health</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Wealth</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/50_Psychology_Classics__Who_We_Are__How_We_Think__What_We_Do__Insight_and_Inspiration_from_50_Key_Books.pdf\">Relationship</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/The-Etheric-Astral-Mental-Causal-bodies-Arthur-E-Powell.pdf\">Spirituality</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Holistic Services offered by Dr Saurabh Ranjan.docx\">Personal Services</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Call</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">WhatsApp 9654791946</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tel:+91-8076711457\">Call 8076711457</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form1-6\">Send a Message online</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"index.html#map1-7\">Book Appointment</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://secure.skype.com/portal/overview?intsrc=client-_-windows-_-7.40.0.103-_-menu.account\">Online Consultation</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.facebook.com/groups/661572394230645/\" target=\"_blank\">Free Guidance</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.youtube.com/watch?v=khGJlU_Kgno\" target=\"_blank\">Radio Talk Show</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Services</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Register for FREE Meditation Class</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">19 Nov.</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.facebook.com/pg/drsaurabhranjan.in/photos/?tab=album&amp;album_id=1746719552013444\" target=\"_blank\">Register for FREE Acupressure Camp</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Free Knowledge</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Infographics</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Health</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">New Item</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">New Item</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">New Item</a></div></div></div></div></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Text</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Audio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ebooks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Laws of Health.docx\">Health</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Wealth</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/50_Psychology_Classics__Who_We_Are__How_We_Think__What_We_Do__Insight_and_Inspiration_from_50_Key_Books.pdf\">Relationship</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/The-Etheric-Astral-Mental-Causal-bodies-Arthur-E-Powell.pdf\">Spirituality</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Holistic Services offered by Dr Saurabh Ranjan.docx\">Personal Services</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Call</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">WhatsApp 9654791946</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tel:+91-8076711457\">Call 8076711457</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form1-6\">Send a Message online</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"index.html#map1-7\">Book Appointment</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://secure.skype.com/portal/overview?intsrc=client-_-windows-_-7.40.0.103-_-menu.account\">Online Consultation</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.facebook.com/groups/661572394230645/\" target=\"_blank\">Free Guidance</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.youtube.com/watch?v=khGJlU_Kgno\" target=\"_blank\">Radio Talk Show</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -198,7 +198,7 @@
           },
           "title": "Dr. Saurabh Ranjan",
           "text": "MBBS Doctor, Meditation Teacher, <br>Award winning EOV Acupuncturist, <br>IBL In-Between-Life Regression Therapist",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"assets/files/Dr%20Saurabh%20Ranjan_in_Spiritual%20Science%20Magazine%202013-07-08%20pg%2025-27.pdf\" data-toolbar=\"-mbrBtnMove\">MORE</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"assets/files/Dr%20Saurabh%20Ranjan_in_Spiritual%20Science%20Magazine%202013-07-08%20pg%2025-27.pdf\" data-toolbar=\"-mbrBtnMove\">MORE</a> <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"assets/files/Dr%20Saurabh%20Ranjan_in_Spiritual%20Science%20Magazine%202013-07-08%20pg%2025-27.pdf\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-numbered-list mbr-iconfont mbr-iconfont-btn\"></span>Workshops</a> ",
           "_tags": [
             "Theme"
           ],
@@ -249,7 +249,7 @@
           },
           "title": "ARTICLES",
           "text": "We seek one of the three things....",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"assets/files/Laws%20of%20Health.docx\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-smile-face mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 24px;\"></span>Health</a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"assets/files/Laws%20of%20Health.docx\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-magic-stick mbr-iconfont mbr-iconfont-btn\"></span>Wealth</a>       <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"assets/files/The Science of Getting Rich- Wallace Wattle.pdf\" data-toolbar=\"-mbrBtnMove\">Free eBooks</a> ",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"assets/files/Laws%20of%20Health.docx\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-smile-face mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 24px;\"></span>Health</a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://www.youtube.com/playlist?list=PLdrcgrwXNNc5dggvd3wMg0PxfSgqEjE07\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-magic-stick mbr-iconfont mbr-iconfont-btn\"></span>Wealth</a>       <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"assets/files/The Science of Getting Rich- Wallace Wattle.pdf\" data-toolbar=\"-mbrBtnMove\">Free eBooks</a> ",
           "_tags": [
             "Theme"
           ],
@@ -415,6 +415,88 @@
           ],
           "_name": "msg-box8",
           "_anchor": "msg-box8-9"
+        },
+        {
+          "_params": {
+            "autoplay": true,
+            "fullScreen": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#fff",
+            "timeout": "5",
+            "slides": [
+              {
+                "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "Previous Workshops",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Dr Saurabh Ranjan conducts various types of workshop at different Place like, Patna, Pune, Chandigarh, Dehradun, Indore, Mumbai, Jaipur, Cuttack-Bhubneshwar, Raipur &nbsp;etc.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/rk-puram-school-delhi-june-2017-2000x1500.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "ज्योत से ज्योत जलाते चलो",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/cuttacck-odisha-960x540.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "",
+                "overlay": true,
+                "contentAlign": "right",
+                "text": "We are Eternal Souls. We reincarnate to take physical experiences and Learn Self-Mastery.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#msg-box8-4\" data-toolbar=\"-mbrBtnMove\">Read more.</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/raipur-institute-of-technology-jan.-2017-960x540.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "",
+                "title": "",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "not only exchange of knowledge words, but Aura leaves impact.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider3",
+          "_anchor": "slider3-a",
+          "_styles": {
+            "P": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "text-align": "right"
+            }
+          }
         }
       ]
     }
