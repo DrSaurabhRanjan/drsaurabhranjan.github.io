@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-11-10_1736",
-    "currentPage": "page3.html",
+    "currentPage": "page.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -86,7 +86,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#1c1329!important"
             }
           },
           "_params": {
@@ -487,7 +487,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#1c1329!important"
             }
           },
           "_params": {
@@ -613,10 +613,13 @@
           },
           "media2": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/yinyang-body-250x248.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media3": {
